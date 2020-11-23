@@ -32,6 +32,11 @@ button {
   border-radius: 50%;
 }
 
+.habits {
+  padding: 0.5em;
+  padding-top: 2em;
+}
+
 .add-input {
   font-size: 2rem;
   margin-right: 0.2em;
@@ -83,4 +88,11 @@ button {
 .habit-delete {
   font-size: 2rem;
   color: darkred;
+}
+
+.habits-reset {
+  font-size: 1.5rem;
+  padding: 0.2em 1em;
+  background-color: green;
+  color: white;
 }
